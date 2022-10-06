@@ -8,6 +8,8 @@ public class YeniGit01 {
 		int a =12;
 		int b =13;
 		System.out.println(a+b);
+		
+		// local degiskenlere deger atandi
 
 	}
 
