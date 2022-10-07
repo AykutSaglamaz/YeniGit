@@ -10,6 +10,9 @@ public class YeniGit01 {
 		System.out.println(a+b);
 		
 		// local degiskenlere deger atandi
+		
+		// yeni dopaya gonder 
+		
 
 	}
 
